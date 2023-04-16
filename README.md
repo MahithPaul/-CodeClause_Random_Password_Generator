@@ -21,5 +21,5 @@ pip install Tkinter
 # Watch Video
 - to watch video on my Linked page [click here]()
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahith-paul)
